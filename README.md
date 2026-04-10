@@ -1,4 +1,4 @@
-# Crypto Platform QA Portfolio
+# Crypto Platform QA Portfolio (Exchange + Web3 Wallet)
 
 This repository combines three related QA portfolio projects into one recruiter-friendly, domain-focused repository for **crypto exchange, wallet, and Web3 platform testing**.
 
