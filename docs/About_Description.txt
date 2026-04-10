@@ -1,0 +1,1 @@
+QA portfolio for crypto exchange and Web3 wallet platforms, focused on transaction integrity, trade lifecycle validation, wallet security, and API/backend consistency.
